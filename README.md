@@ -1,7 +1,5 @@
 ## Вёрстка страницы. Хедер, футер, центральная часть
 
----
-
 Верхняя часть страницы занимает минимум всю высоту, футер ниже основного
 контента. В центральной части 12 плиток, в каждой плитке хедер с именем и
 номером плитки, и значение которое меняется с помощью кнопок плюс и минус в
@@ -17,7 +15,7 @@ blue, green, yellow, cyan, magenta, black, gray.
 Реализовано с помощью `React`.
 
 **Ссылка на рабочую страницу (GitHub pages) приложения -
-[https://kostiantyn-sagan.github.io/image-finder/](https://kostiantyn-sagan.github.io/image-finder/)**
+[https://kostiantyn-sagan.github.io/react-test-page/](https://kostiantyn-sagan.github.io/react-test-page/)**
 
 ### Команды для сборки, запуска
 
