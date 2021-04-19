@@ -1,0 +1,38 @@
+.container {
+  padding: 10px 12px;
+  border: 2px solid transparent;
+  border-radius: 4px;
+
+  box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 1px 3px rgba(0, 0, 0, 0.12);
+  background-color: var(--white);
+
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.container:hover {
+  border-color: var(--purple);
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 18px;
+}
+
+.title {
+  font-size: 18px;
+}
+
+.text {
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+.color {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}

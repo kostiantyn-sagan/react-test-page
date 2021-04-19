@@ -1,0 +1,12 @@
+.pageFooter {
+  background-color: #ffb6c1;
+}
+
+.copyright {
+  margin-bottom: 0;
+  padding-top: 38px;
+  padding-bottom: 34px;
+
+  color: var(--dark);
+  text-align: center;
+}

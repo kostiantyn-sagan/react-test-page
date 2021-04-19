@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn {
+  border: none;
+  padding: 0;
+
+  background-color: transparent;
+  font-weight: 700;
+}
+
+.decrement {
+  composes: btn;
+  color: var(--red);
+}
+
+.increment {
+  composes: btn;
+  color: var(--green);
+}

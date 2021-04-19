@@ -1,0 +1,11 @@
+.section {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  min-height: 100vh;
+
+  background-color: #f5f4fa;
+}
+
+.title {
+  font-size: 20px;
+}

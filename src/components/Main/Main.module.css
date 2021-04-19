@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+
+  color: var(--purple);
+}
+
+.icon {
+  margin-right: 8px;
+}
+
+.text {
+  margin-bottom: 0;
+}
